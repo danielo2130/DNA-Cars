@@ -1,0 +1,20 @@
+.logo {
+background-color: lightblue;
+display: flex;
+justify-content: center;
+}
+
+#logo {
+    width: 1250px;
+    height: 400px;
+}
+
+.desc {
+    display: block;
+    text-align: center;
+    font-size: 25px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
